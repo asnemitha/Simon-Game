@@ -2,8 +2,7 @@
 A browser-based implementation of the classic Simon memory game, built using HTML, CSS, JavaScript, and jQuery. Test your memory by repeating an increasingly complex sequence of colors.
 
 Live Demo
-Play the Game Here: http://127.0.0.1:3000/SimonGame/Simon%20Game%20Challenge%20Completed/index.html?vscode-livepreview=true
-
+Play the Game Here: https://asnemitha.github.io/Simon-Game/
 Overview
 This project recreates the classic Simon Game where players must remember and repeat a randomly generated sequence of colors. With each level, the sequence grows longer, increasing the difficulty.
 
